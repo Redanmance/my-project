@@ -1,0 +1,6 @@
+gitpython
+sentence-transformers
+faiss-cpu
+gradio
+tree-sitter
+tree-sitter-languages
