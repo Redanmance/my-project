@@ -1,4 +1,4 @@
-# AI Codebase Copilot
+# 智能代码问答系统
 
 ## 📖 项目简介
 
